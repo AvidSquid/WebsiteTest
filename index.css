@@ -279,11 +279,7 @@
 		}
 
 	.fstPage {
-			background-image:
-			   /* linear-gradient(
-			      rgba(0, 0, 0, 0.65), 
-			      rgba(0, 0, 0, 0.65)
-			    )*/, url("background.jpg");
+			background-image: linear-gradient(          rgba(0, 0, 0, 0.65),           rgba(137, 255, 212, 0.65)        ), url(Background.jpg);
 			height: 700px;
 			width:100%;
 			background-size:cover;
@@ -328,7 +324,7 @@
 			    linear-gradient(
 			      rgba(0, 0, 0, 0.55), 
 			      rgba(0, 0, 0, 0.55)
-			    ), url("background.jpg");
+			    ), url("Background.jpg");
 			height:800px;
 			width:100%;
 			background-size:cover;
