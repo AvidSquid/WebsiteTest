@@ -329,7 +329,7 @@
 			    linear-gradient(
 			      rgba(0, 0, 0, 0.55), 
 			      rgba(0, 0, 0, 0.55)
-			    ), url("Background.JPG");
+			    ), url("Background.jpg");
 			height:800px;
 			width:100%;
 			background-size:cover;
