@@ -111,17 +111,17 @@
 		}
 
 		#topRow2 {
-		margin-top:10px;
+		margin-top: 100px;
 		text-align:center;
 		color:black;
 		}
 
 		#topRow2 h1 {
 		font-weight: 100;
-		font-size: 5.3em;
+		font-size: 5em;
 		line-height: 1.2em;
 		font-family: Roboto, sans-serif;
-		color: black;
+		color: #6ecece;
 		}
 
 		#topRow3 {
