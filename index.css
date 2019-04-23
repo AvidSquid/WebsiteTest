@@ -1,3 +1,21 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@AvidSquid 
+0
+0 0 AvidSquid/Website
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+Website/index.css
+@AvidSquid AvidSquid Update index.css
+d3e8815 a minute ago
+646 lines (524 sloc)  10.2 KB
+    
 /*body{
 	min-width: 720px;
 }*/
@@ -279,7 +297,7 @@
 		}
 
 	.fstPage {
-			background-image: linear-gradient(          rgba(0, 0, 0, 0.65),           rgba(137, 255, 212, 0.65)        ), url(Background.jpg);
+			background-image: /*linear-gradient(rgba(0, 0, 0, 0.65),rgba(137, 255, 212, 0.65)),*/ url(Background.jpg);
 			height: 700px;
 			width:100%;
 			background-size:cover;
@@ -643,3 +661,15 @@ ul  {
 ul li  {
  list-style-position:inside
 }
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
